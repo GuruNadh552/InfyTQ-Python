@@ -1,4 +1,3 @@
-#lex_auth_01269363490743091290
 
 def display(num):
     message=""
