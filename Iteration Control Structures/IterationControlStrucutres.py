@@ -1,4 +1,4 @@
-#lex_auth_012693749623193600122
+
 
 def find_sum_of_digits(number):
     sum_of_digits=0

@@ -1,4 +1,4 @@
-#lex_auth_01269361601342668881
+
 def calculate_total_ticket_cost(no_of_adults, no_of_children):
     total_ticket_cost=0
     rate_per_adult = 37550.0

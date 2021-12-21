@@ -1,4 +1,4 @@
-#lex_auth_012693802383794176153
+
 
 def form_triangle(num1,num2,num3):
     success="Triangle can be formed"
